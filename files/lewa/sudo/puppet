@@ -1,0 +1,2 @@
+puppet   ALL=NOPASSWD: /data/install.sh
+Defaults:puppet !requiretty
