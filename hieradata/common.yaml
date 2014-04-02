@@ -1,8 +1,0 @@
----
-ftp_users:
-        - user_name : wfl
-          password : lewatek
-          data_dir : /data/ftp
-        - user_name : test
-          password : lewatek
-          data_dir : /data/ftp
